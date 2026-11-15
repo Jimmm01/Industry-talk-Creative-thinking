@@ -1,1 +1,13 @@
 # Industry-talk-Creative-thinking
+
+
+ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING
+Group code: S02-G4
+Log activity
+
+| No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
+|----|------|--------|------|----------------------------------|----------------------|
+| 1  |      |        |      |                                  |                      |
+| 2  |      |        |      |                                  |                      |
+| 3  |      |        |      |                                  |                      |
+| 4  |      |        |      |                                  |                      |

@@ -9,5 +9,5 @@ Log activity
 |----|------|--------|------|----------------------------------|----------------------|
 | 1  |      |        |      |                                  |                      |
 | 2  |      |        |      |                                  |                      |
-| 3  |      |        |      |                                  |                      |
+| 3  | 15 /11/2026 | Khalisah | Prepare and write the critical thinking section | Academic reference: Paul, R., & Elder, L. (2006). | Completed Creative thinking section |
 | 4  |      |        |      |                                  |                      |
